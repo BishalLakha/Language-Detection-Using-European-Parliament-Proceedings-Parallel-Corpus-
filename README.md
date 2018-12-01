@@ -33,7 +33,7 @@ Both word and character n-grams and bag-of-words features based on tf-idf was us
 
 30 models were trained and tested. Analysis of the results can be found in result_analysis.ipynb .The best accuracy was found for given model:
 
-![Result](/home/bis/Projects/Other project/Natural LanguageDetection/Resources/best_result.png)
+![Result](./Resources/best_result.png)
 
 
 
